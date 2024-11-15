@@ -3,7 +3,6 @@
 ![Version](https://badgen.net/badge/version/1.0.0/blue)
 ![Python](https://badgen.net/badge/python/3.8%2B/blue)
 ![License](https://badgen.net/badge/license/MIT/green)
-![Build Status](https://badgen.net/github/checks/:marshalldouglas398/:neural_net_trader/main)
 ![Framework](https://badgen.net/badge/framework/Tensorflow/orange)
 
 The Neural Net Trader is an LSTM model hooked up to a backtesting simulation.
